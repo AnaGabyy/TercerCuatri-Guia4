@@ -1,6 +1,5 @@
-package ejercicioDosTest;
-
-import ejercicioDos.Animal;
+package dos.dosTest;
+import dos.*;
 
 public class Main {
     public static void main(String[] args) {

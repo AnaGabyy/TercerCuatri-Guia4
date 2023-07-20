@@ -1,4 +1,4 @@
-package ejercicioUno;
+package uno;
 
 public class Cuadrado extends FiguraGeometrica implements Figura{
 

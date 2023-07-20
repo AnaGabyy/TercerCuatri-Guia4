@@ -1,7 +1,5 @@
-package ejercicioUnoTest;
-
-import ejercicioUno.Cuadrado;
-import ejercicioUno.FiguraGeometrica;
+package uno.unoTest;
+import uno.*;
 
 public class Main {
     public static void main(String[] args) {
